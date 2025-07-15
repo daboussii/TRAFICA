@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+# TRAFICA
+
+Système de gestion intelligente du trafic basé sur l’IA et l’IoT.
 # traffic
 
 A new Flutter project.
